@@ -15,9 +15,7 @@
 
     <form action="ex06_02_2.php" method="post">
         ID<input type="text" name="id"> 
-        パスワード<input type="password" name="pass">
-        
-        <br>
+        パスワード<input type="password" name="pass"><br>
                 
         <input class="blue" type="checkbox">パスワードを表示
         <hr>
