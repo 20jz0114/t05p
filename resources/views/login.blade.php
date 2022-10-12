@@ -21,8 +21,7 @@
         <hr>
         <button type="submit">次へ</button>                           
     </form>
-    
-        <h4>Copyright ©ElectronicProcedure </h4>
 
+    <h4>Copyright ©ElectronicProcedure</h4>
 </body>
 </html>
